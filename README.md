@@ -1,4 +1,4 @@
-# DARF-Net
+# DAFR-Net
 DAFR-Net : Lightweight Deformable Adaptive Feature Reconstruction Network for Tiny in Remote Sensing Images Object Detection
 
 1. Required environments:
